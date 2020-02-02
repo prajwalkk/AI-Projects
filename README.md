@@ -1,0 +1,23 @@
+Name :Prajwal Kishor Kammardi
+UIN 678548422
+
+
+1. DFS : No extra Modules needed
+
+2. BFS : No extra modules needed
+
+3: UCS : No Extra Modules Needed
+
+4: A* No Extra Modles Needed
+
+5: Corners Problem : No Extra Modules Needed
+
+6: Corners Heuristic: No Extra Modules Needed. 
+
+7: Eating all the dots.  
+   1st Heuristic idea was to implement nearest node and Furthest goal food and add both of them and sent the path as heuristic. But it was not admissible. 
+   therefore used average of min and max distance as heuristic
+   Discussed this heuristic with classmate Pramodh Acharya UIN: 671820928.
+   We implemented seperate strategies, though.
+	
+8: No extra Module required
