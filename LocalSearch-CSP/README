@@ -1,1 +1,7 @@
-CSP and Local search problems
+Collaborated with Pramodh Acharya (UIN : 671820928) for Coding Assignment.
+
+
+All tested with new Autograder
+
+Sometimes Anneal sudoku didnt use to get full scores. works properly if rerun. Maybe issue with random.
+Problem 6 was not solvable in both writing and code.
